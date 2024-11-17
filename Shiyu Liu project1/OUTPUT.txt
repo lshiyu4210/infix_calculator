@@ -1,0 +1,13 @@
+Name: Shiyu Liu        NetID: sliu89
+email: sliu89@u.rochester.edu
+
+The main method of my algorithm is in ICtest.java. It takes the first string in the command line
+as the route of the input file and takes the second string in the command line as the route 
+of the output file. So please type in the location of the input file on your computer in the 
+first command line and then specify the location where you want to find your output file.
+For eclipse, you can type the locations in program arguments under argument under run 
+configurations. Ex: \Users\liusy\Desktop\extra_test.txt
+
+To run InfixCalculator, you have to create a new InfixCalculator object. First, you have to call
+InfixToPostifx() which takes strings as arguments. Then, you have to print out the result returned
+by calling calculator() which has an empty parameter.
